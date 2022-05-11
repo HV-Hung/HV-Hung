@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m currently a junior computer science student at University of Information Technology - VNUHCM.
+- 🎓 &nbsp; I’m currently a junior student at University of Information Technology - VNUHCM.
 - 🔭 &nbsp; Learning Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Reactjs 
+- 🌐 &nbsp; JavaScript | HTML | CSS | Reactjs |  Java | Python | C++
 - 🛢 &nbsp; SQL | NoSQL
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Photoshop | Figma
+- 🔧 &nbsp; Visual Studio code | Git | Unbutu 
+- 🖥 &nbsp; Photoshop | Figma 
 
 <br>
 
