@@ -14,8 +14,6 @@
 - 🔧 &nbsp; Visual Studio code | Git | Unbutu 
 - 🖥 &nbsp; Photoshop | Figma 
 
-<br>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
