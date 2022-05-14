@@ -14,10 +14,12 @@
 - 🔧 &nbsp; Visual Studio code | Git | Unbutu 
 - 🖥 &nbsp; Photoshop | Figma 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HV-Hung&hide=&layout=compact)](https://github.com/HV-Hung/github-readme-stats)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-
+  
 &nbsp; <a href="mailto:conbodu68@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
