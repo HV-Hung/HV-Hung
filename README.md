@@ -10,8 +10,7 @@ I am a senior student at the University of Information Technology, majoring in w
 
 - 🌐 &nbsp; Programming lagnguages: Typescript, JavaScript
 - 🛢 &nbsp; Frameworks/Platforms: ReactJS,NodeJS, Express, Refine, Ant degin, tailwind
-- 🔧 &nbsp; Database Management Systems: MongoDB, MySQL 
-- 🖥 &nbsp; Photoshop | Figma 
+- 🔧 &nbsp; Database Management Systems: MongoDB, MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HV-Hung&hide=&layout=compact)](https://github.com/HV-Hung/github-readme-stats)
 
