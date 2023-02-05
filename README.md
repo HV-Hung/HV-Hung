@@ -3,15 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m currently a junior student at University of Information Technology - VNUHCM.
-- 🔭 &nbsp; Learning Web Development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+I am a senior student at the University of Information Technology, majoring in web development. I recently completed an internship at Amanotes as a front-end developer, where I gained valuable hands-on experience in the industry. I am eager to continue growing my skills and building projects that deliver user-friendly experiences to the end user. I am passionate about coding and developing innovative web applications.
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | HTML | CSS | Reactjs |  Java | Python | C++
-- 🛢 &nbsp; SQL | NoSQL
-- 🔧 &nbsp; Visual Studio code | Git | Unbutu 
+- 🌐 &nbsp; Programming lagnguages: Typescript, JavaScript
+- 🛢 &nbsp; Frameworks/Platforms: ReactJS,NodeJS, Express, Refine, Ant degin, tailwind
+- 🔧 &nbsp; Database Management Systems: MongoDB, MySQL 
 - 🖥 &nbsp; Photoshop | Figma 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HV-Hung&hide=&layout=compact)](https://github.com/HV-Hung/github-readme-stats)
